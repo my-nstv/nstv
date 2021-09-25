@@ -1,5 +1,11 @@
+@font-face {
+    font-family: "JosefinSans";
+    src: url(../../fonts/JosefinSansRegular-x3LYV.ttf) format("truetype");
+}
+
 body
 {
+    font-family: "JosefinSans";
     background: rgb(25,26,27);
 }
 
