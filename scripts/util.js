@@ -11,7 +11,7 @@ function loadJSON(name, callback)
         }
     }
 
-    xhr.open('GET', `../json/${name}.json`, true);
+    xhr.open('GET', `json/${name}.json`, true);
     xhr.send()
 }
 
